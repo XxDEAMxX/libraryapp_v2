@@ -1,0 +1,8 @@
+.my-style-destacados .card{
+    height: 100%;
+}
+
+.my-style-destacados .card img{
+    height: 200px;
+    object-fit: cover;
+}
